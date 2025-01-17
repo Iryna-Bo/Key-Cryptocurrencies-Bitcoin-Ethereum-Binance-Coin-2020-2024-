@@ -17,9 +17,19 @@
 
 8. **DeFi** (Decentralized Finance) is an emerging trend within the cryptocurrency world, aiming to recreate traditional financial systems (lending, borrowing, trading) using blockchain technology without intermediaries.  
 
-9. **NFTs** (Non-Fungible Tokens) are unique digital assets stored on a blockchain, allowing ownership of items like digital art, music, or even real estate to be verified.  
+9. **NFTs** (Non-Fungible Tokens) are unique digital assets stored on a blockchain, allowing ownership of items like digital art, music, or even real estate to be verified.
 
-10. Cryptocurrencies have gained significant attention in recent years, with institutional investors and companies beginning to incorporate them into their portfolios, signaling growing acceptance in the financial world.
+10. **Tokens:** In the cryptocurrency world, a token represents a unit of value created and managed on a blockchain. Unlike coins (like Bitcoin or Ethereum), tokens often represent assets or utilities within specific platforms, such as decentralized applications (dApps). Some tokens, like ERC-20 tokens, are built on the Ethereum network and are used for a wide range of purposes including governance, staking, or participation in the decentralized finance (DeFi) ecosystem.
+
+11. **Wallets:** A cryptocurrency wallet is a software or hardware tool used to store and manage your cryptocurrencies. Wallets can be hot (connected to the internet) or cold (offline) and come with private keys that provide access to the funds stored in the wallet. There are different types of wallets, including desktop, mobile, web, and hardware wallets (like Ledger or Trezor), each offering varying levels of security and convenience.
+
+12. **How Many Cryptocurrencies Are There Now?**  
+As of now, there are thousands of cryptocurrencies in existence, with new ones being created regularly. Popular ones include Bitcoin, Ethereum, Binance Coin, and others like Cardano (ADA), Solana (SOL), and Ripple (XRP). CoinMarketCap reports over 22,000 cryptocurrencies, though the actual number fluctuates as new projects launch and older ones fade away.  
+
+13. **Energy Intensity of Cryptocurrency Transactions**    
+One major concern with cryptocurrencies, particularly Bitcoin, is the high energy consumption required for mining and validating transactions. Mining Bitcoin, for example, involves solving complex mathematical problems that require vast computational power, often drawing from energy sources with a significant carbon footprint. As of recent studies, Bitcoin mining consumes more energy than some entire countries. However, there are ongoing efforts to transition toward more energy-efficient consensus mechanisms like Proof of Stake (PoS), used by Ethereum after its transition to Ethereum 2.0.
+
+11. Cryptocurrencies have gained significant attention in recent years, with institutional investors and companies beginning to incorporate them into their portfolios, signaling growing acceptance in the financial world.
 
 
 ### What is Bitcoin Halving?  
