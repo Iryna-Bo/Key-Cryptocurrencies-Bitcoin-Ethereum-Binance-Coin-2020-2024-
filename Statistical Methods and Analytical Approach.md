@@ -11,7 +11,7 @@ __Data Exploration with describe():__
 __F-Test (Variance Analysis):__  
 
 • *Purpose:* This test compares the variances between two or more groups.  
-• *Application:* It was used to assess price volatility differences between Bitcoin, Ethereum, and Binance Coin. For instance, it revealed Bitcoin's higher variance compared to Ethereum and Binance Coin, offering insights into their risk levels and market behavior.  
+• *Application:* It was used in the project, for example, to assess price volatility differences between Bitcoin, Ethereum, and Binance Coin. For instance, it revealed Bitcoin's higher variance compared to Ethereum and Binance Coin, offering insights into their risk levels and market behavior.  
 
 __Pearson Correlation Coefficient:__  
 
@@ -43,7 +43,7 @@ __Granger Causality Analysis:__
 __T-Test (Comparison of Means):__  
 
 • *Purpose:* This statistical test compares the means of two groups to determine if they are significantly different.    
-• *Application:* In this project, the t-test was used to analyze differences in the mean percentage changes (daily returns) of Ethereum prices before and after the London upgrade. The analysis revealed a statistically significant reduction in mean daily returns post-upgrade, suggesting the upgrade may have influenced price behavior. 
+• *Application:* In this project, for example, the t-test was used to analyze differences in the mean percentage changes (daily returns) of Ethereum prices before and after the London upgrade. The analysis revealed a statistically significant reduction in mean daily returns post-upgrade, suggesting the upgrade may have influenced price behavior. 
 
 ### Why These Methods Were Chosen  
 
