@@ -40,6 +40,11 @@ __Granger Causality Analysis:__
 • *Purpose:* This statistical method determines whether one time series can predict another.  
 • *Application:* It was used to investigate lagged relationships between Bitcoin, Ethereum, and Binance Coin, revealing causal connections. This analysis allowed the project to explore whether price changes in one cryptocurrency "cause" changes in another.  
 
+__T-Test (Comparison of Means):__  
+
+• *Purpose:* This statistical test compares the means of two groups to determine if they are significantly different.    
+• *Application:* In this project, the t-test was used to analyze differences in the mean percentage changes (daily returns) of Ethereum prices before and after the London upgrade. The analysis revealed a statistically significant reduction in mean daily returns post-upgrade, suggesting the upgrade may have influenced price behavior. 
+
 ### Why These Methods Were Chosen  
 
 *The combination of these statistical tools facilitated a thorough exploration of the price volatility, trends, and interrelationships between the three cryptocurrencies. Specifically, the methods allowed for:*  
