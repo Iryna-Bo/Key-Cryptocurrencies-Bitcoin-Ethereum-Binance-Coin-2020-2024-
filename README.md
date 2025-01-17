@@ -1,13 +1,12 @@
 # Key Cryptocurrencies: Bitcoin, Ethereum, Binance Coin (2020-2024)  
 
-*Project Overview*  
+__*Project Overview*__    
 
 This project analyzes the price trends, correlations, and patterns of three major cryptocurrencies—Bitcoin, Ethereum, and Binance Coin—from 2020 to 2024. Key aspects include examining price volatility, identifying trends, exploring seasonality and monthly patterns, and forecasting future prices. The study also investigates the interdependence of these cryptocurrencies and their stability during significant economic events. The insights provided aim to enhance understanding of the dynamics and relationships in the cryptocurrency market.  
 The survey data, sourced directly from the site https://binance.com      
 Binance is an online exchange where users can trade cryptocurrencies. It is the world's leading cryptocurrency exchange, catering to 235 million registered users in over 180 countries.   
 
-**Introduction to Cryptocurrencies**  
-For an overview of key cryptocurrency terms and concepts, please refer to the [Intro to Cryptocurrencies](Intro%20to%20Cryptocurrencies%20README.md)   
+💡 For an overview of *key cryptocurrency terms and concepts*, please refer to the [Intro to Cryptocurrencies](Intro%20to%20Cryptocurrencies%20README.md)   
 
 ### Goals    
 1.	*Analyze Price Volatility:*  Explore fluctuations in cryptocurrency prices to understand market dynamics.  
@@ -41,7 +40,9 @@ For an overview of key cryptocurrency terms and concepts, please refer to the [I
 -Facebook Prophet (Time Series Forecasting)  
 -Granger Causality Analysis.  
 
-#### Files and Folders      
+💡 For detailed information on the *statistical methods and approach* used in this analysis, see [Statistical Methods and Analytical Approach](Statistical%20Methods%20and%20Analytical%20Approach.md)   
+
+### Files and Folders      
 🐍 [Python Analysis](python/README.md): Statistical analysis and visualizations.   
 📈 [Excel Data](excel/README.md): Raw data, processed data.   
 🔍 [Images for visualisation](images/README.md)   
@@ -55,7 +56,6 @@ For an overview of key cryptocurrency terms and concepts, please refer to the [I
 -Bitcoin exhibits significantly higher volatility compared to Ethereum and Binance Coin, making it more appealing for short-term trading strategies.  
 -Ethereum's lower variance reflects its widespread adoption in decentralized finance (DeFi) and smart contracts, indicating it may be less speculative than Bitcoin.  
 -Binance Coin's relative stability positions it as a "safer" option for diversification, appealing to risk-averse investors.  
--The halving event (Bitcoin Halving on May 11, 2020) impacted all three cryptocurrencies, influencing their volatility to varying degrees.  
 -Roles: Bitcoin as a speculative "store of value," Ethereum as a utility-focused blockchain, and Binance Coin as an ecosystem token.  
 
 **Correlation Between Cryptocurrencies:**  
@@ -97,6 +97,7 @@ For an overview of key cryptocurrency terms and concepts, please refer to the [I
 
 -Major global events, such as the COVID-19 pandemic, significantly increased volatility across all three cryptocurrencies.  
 -Economic uncertainty during such events drives market fluctuations due to shifts in investor sentiment and risk perception.  
+-Halving..
 
 **🧮 For the full report**, read the [Detailed Conclusions](Detaile%%Conclusions.md).   
 
