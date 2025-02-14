@@ -58,3 +58,16 @@ Bitcoin halving is an important event in the cryptocurrency world that happens r
 **Why does this matter?** By reducing the number of new Bitcoins entering circulation, halving helps control inflation and keeps Bitcoin scarce—similar to how precious metals like gold are limited. Historically, halving events have often been followed by significant price changes, as the reduced supply can influence market dynamics and investor behavior.  
 
 *In short*, Bitcoin halving is a key factor in how Bitcoin’s value is shaped over time and why many people watch these events closely.  
+
+
+### What is a "Crypto Winter" and where did the term originate?  
+
+A *"crypto winter"* refers to an extended period of market-wide decline in the cryptocurrency industry, characterized by a significant drop in asset values, reduced trading activity, and waning investor interest.  
+
+-- This downturn can persist for several months or even years.   
+-- Signs of an approaching crypto winter include prolonged price stagnation and a general shift toward bearish sentiment.  
+-- A crypto winter can be triggered by various factors, including regulatory crackdowns, security breaches, and economic downturns, all of which weaken investor confidence. When multiple negative events occur simultaneously, they can amplify market instability, turning a temporary decline into a prolonged downturn.  
+
+*The term was first introduced in 2018 by South African data analyst and digital asset expert Eugéne Etsebeth.*    
+
+It's impossible to predict accurately when a crypto winter will begin or end.
