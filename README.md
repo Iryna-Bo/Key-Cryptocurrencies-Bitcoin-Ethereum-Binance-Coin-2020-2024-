@@ -75,7 +75,14 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 **Comparing Average Prices:**  
 
 -Bitcoin has the highest average price ($36,304.24) and a significantly wider price range than Ethereum ($1,981.85) and Binance Coin ($306.70).  
--Ethereum's average price reflects moderate variability, while Binance Coin demonstrates the smallest price range among the three.  
+-Ethereum's average price reflects moderate variability, while Binance Coin demonstrates the smallest price range among the three.    
+
+*🔍Below are the Boxplots - Comparison of the Distributions of Cryptocurrency Prices (created in Python)*    
+
+<img src="images/Currency%20Price%20Distribution.png" alt="Distributions of Cryptocurrency Prices" width="700"/>    
+
+💡 For more details:  
+🐍Python: *"Cryptocurrencies"*  
 
 **Seasonality and Monthly Patterns, Forecasting:** 
 
