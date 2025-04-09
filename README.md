@@ -111,7 +111,7 @@ During this period, Bitcoin’s volatility declined after the crash, while tradi
 
 *🔍Below is a Line Plot (created in Python) for Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter*    
 
-<img src="images/Bitcoin,SP500,Gold%Daily%Percentage%Changes%During%Crypto%Winter%(2021-2022).png" alt="Line Plot showing Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter" width="600"/>    
+<img src="images/Bitcoin%2CSP500%2CGold%20Daily%20Percentage%20Changes%20During%20Crypto%20Winter%20(2021-2022).png" alt="Line Plot showing Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter" width="600"/>    
 
 💡 For more details:  
 🐍Python: *"Price Stability During Economic Events"*
