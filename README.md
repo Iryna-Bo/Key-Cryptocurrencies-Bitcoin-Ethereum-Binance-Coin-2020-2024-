@@ -89,7 +89,7 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 
 *🔍Below is a 1-year Price forecast for Bitcoin, Ethereum, and Binance Coin (created in Python)*    
 
-<img src="images/Cryptocurrency%20Price%20Forecast%20(365%20days).png" alt="1-year Price forecast for Bitcoin, Ethereum, and Binance Coin" width="400" high="600"/>    
+<img src="images/Cryptocurrency%20Price%20Forecast%20(365%20days).png" alt="1-year Price forecast for Bitcoin, Ethereum, and Binance Coin" width="500" high="700"/>    
 
 💡 For more details:  
 🐍Python: *"Cryptocurrencies"*  
