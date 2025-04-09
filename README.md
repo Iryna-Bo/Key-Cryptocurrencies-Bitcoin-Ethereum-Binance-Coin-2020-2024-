@@ -67,7 +67,7 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 
 *🔍Below is a Heatmap - Correlation Between Cryptocurrencies (created in Python)*    
 
-<img src="images/Correlation%20Matrix.png" alt="Correlation Between Cryptocurrencies" width="600"/>    
+<img src="images/Correlation%20Matrix.png" alt="Correlation Between Cryptocurrencies" width="300"/>    
 
 💡 For more details:  
 🐍Python: *"Cryptocurrencies"*   
