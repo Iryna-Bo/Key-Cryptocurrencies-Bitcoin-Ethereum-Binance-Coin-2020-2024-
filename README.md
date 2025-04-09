@@ -87,6 +87,13 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 • Binance Coin: $1,200–$1,400  
 -Forecasts indicate significant growth potential but remain subject to real-world market conditions.  
 
+*🔍Below is a 1-year Price forecast for Bitcoin, Ethereum, and Binance Coin (created in Python)*    
+
+<img src="images/Cryptocurrency%20Price%20Forecast%20(365%20days).png" alt="1-year Price forecast for Bitcoin, Ethereum, and Binance Coin" width="400" high="600"/>    
+
+💡 For more details:  
+🐍Python: *"Cryptocurrencies"*  
+
 **The impact of cryptocurrencies on each other:**  
 
 -Bitcoin exerts the most influence, driving price movements in both Ethereum and Binance Coin.  
