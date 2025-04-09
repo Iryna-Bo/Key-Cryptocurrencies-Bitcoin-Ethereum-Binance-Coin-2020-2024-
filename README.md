@@ -65,6 +65,13 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 -Bitcoin's price movements strongly influence both Ethereum and Binance Coin, highlighting Bitcoin's anchoring role in the cryptocurrency market.  
 -Shared involvement in DeFi and overlapping user bases contribute to the high correlation between Ethereum and Binance Coin.  
 
+*🔍Below is a Heatmap - Correlation Between Cryptocurrencies (created in Python)*    
+
+<img src="images/Correlation%20Matrix.png" alt="Correlation Between Cryptocurrencies" width="600"/>    
+
+💡 For more details:  
+🐍Python: *"Cryptocurrencies"*   
+
 **Trend Analysis:**  
 
 -Bitcoin's price shows the fastest upward trend, increasing by approximately $24.93 per day on average.  
