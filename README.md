@@ -38,7 +38,8 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 -Linear Regression  
 -ANOVA  
 -Facebook Prophet (Time Series Forecasting)  
--Granger Causality Analysis.  
+-Granger Causality Analysis  
+-T-Test.  
 
 💡 For detailed information on the *statistical methods and approach* used in this analysis, see [Statistical Methods and Analytical Approach](Statistical%20Methods%20and%20Analytical%20Approach.md)   
 
@@ -97,7 +98,23 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 
 -Major global events, such as the COVID-19 pandemic, significantly increased volatility across all three cryptocurrencies.  
 -Economic uncertainty during such events drives market fluctuations due to shifts in investor sentiment and risk perception.  
--Halving..
+-*COVID-19 Crisis (2020):*  
+The pandemic triggered a sharp, short-term market crash followed by a rapid recovery. This rebound was driven by macroeconomic factors such as global stimulus measures and rising demand for digital assets.   
+-Bitcoin Halving:  
+The halving events typically lead to gradual price increases and heightened speculative interest due to reduced supply. Between 2020 and 2024, this evolution reflects a shift in market dynamics, with cryptocurrencies becoming more integrated into the global financial system.  
+-*Ethereum’s London Upgrade:*  
+The upgrade positively impacted Ethereum’s long-term price trend by addressing key concerns related to transaction costs and supply dynamics.  
+-*China’s Cryptocurrency Crackdown:*  
+The market demonstrated strong adaptability. Despite an initial price drop, cryptocurrencies recovered as mining activity shifted to other regions. This event highlighted the increasing decentralization of the crypto ecosystem and its reduced reliance on any single country.  
+-*Crypto Winter 2022:*  
+During this period, Bitcoin’s volatility declined after the crash, while traditional assets like the S&P 500 and gold became more volatile. Interestingly, correlations between crypto and traditional assets strengthened, suggesting that increased correlation does not necessarily imply similar risk behavior. This provides valuable insight into portfolio diversification and risk management strategies.    
+
+*🔍Below is a Line Plot (created in Python) for Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter*    
+
+<img src="images/Bitcoin,SP500,Gold%Daily%Percentage%Changes%During%Crypto%Winter%(2021-2022).png" alt="Line Plot showing Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter" width="600"/>    
+
+💡 For more details:  
+🐍Python: *"Price Stability During Economic Events"*
 
 **🧮 For the full report**, read the [Detailed Conclusions](Detaile%%Conclusions.md).   
 
@@ -117,7 +134,8 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 •	Recurring dips and cycles indicate the influence of external events and market sentiment on cryptocurrency trends.  
 
 *Global Events Impact:*  
-•	Major events like the COVID-19 pandemic amplify cryptocurrency volatility, emphasizing their dual role as speculative assets and alternatives during market stress.  
+•	Major events like the COVID-19 pandemic amplify cryptocurrency volatility, emphasizing their dual role as speculative assets and potential alternatives during market stress.  
+•	Price stability in the cryptocurrency market remains highly sensitive to global economic events. During turbulent periods, Bitcoin's volatility may decline, while traditional assets like the S&P 500 show increased fluctuations. Gold, by contrast, continues to serve as a relatively stable safe-haven. This evolving dynamic highlights how cryptocurrencies are becoming more interconnected with traditional markets, yet still retain unique behavioral patterns.
 
 *Key Takeaways:*  
 •	Bitcoin dominates as a speculative "store of value," Ethereum excels in utility-driven applications, and Binance Coin provides stability through its ecosystem.  
