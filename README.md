@@ -102,6 +102,15 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 The pandemic triggered a sharp, short-term market crash followed by a rapid recovery. This rebound was driven by macroeconomic factors such as global stimulus measures and rising demand for digital assets.   
 -Bitcoin Halving:  
 The halving events typically lead to gradual price increases and heightened speculative interest due to reduced supply. Between 2020 and 2024, this evolution reflects a shift in market dynamics, with cryptocurrencies becoming more integrated into the global financial system.  
+
+*🔍Below is a Visualisation (created in Python) - Daily percentage change in prices for Bitcoin, Ethereum, and Binance Coin during May 2020*    
+
+<img src="images/Daily%20Percentage%20Change%20of%20Cryptocurrencies%20(May%202020).png" alt="Line Plot showing Daily Percentage Change of Cryptocurrencies (May 2020)" width="600"/>    
+
+💡 For more details:  
+🐍Python: *"Price Stability During Economic Events"*  
+
+
 -*Ethereum’s London Upgrade:*  
 The upgrade positively impacted Ethereum’s long-term price trend by addressing key concerns related to transaction costs and supply dynamics.  
 -*China’s Cryptocurrency Crackdown:*  
