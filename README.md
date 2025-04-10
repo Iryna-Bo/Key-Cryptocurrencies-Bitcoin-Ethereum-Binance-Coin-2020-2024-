@@ -10,8 +10,12 @@
 __*Project Overview*__    
 
 This project analyzes the price trends, correlations, and patterns of three major cryptocurrencies—Bitcoin, Ethereum, and Binance Coin—from 2020 to 2024. Key aspects include examining price volatility, identifying long-term trends, exploring seasonal and monthly patterns, and forecasting future prices. The study also investigates the interdependence of these cryptocurrencies and their stability during significant economic events. The insights provided aim to enhance understanding of the dynamics and relationships in the cryptocurrency market.  
-Historical price data was collected from Binance.com using their public datasets and tools (https://binance.com)        
-Binance, the world’s leading cryptocurrency exchange, serves over 235 million users across 180+ countries, offering a platform to trade a wide range of digital assets.     
+• Historical price data was collected from Binance.com using their public datasets and tools (https://binance.com)        
+Binance, the world’s leading cryptocurrency exchange, serves over 235 million users across 180+ countries, offering a platform to trade a wide range of digital assets.  
+To enrich the analysis with broader market context, the project also includes:  
+• S&P 500 Index data sourced from the Federal Reserve Economic Data (FRED) database (https://fred.stlouisfed.org/series/SP500)  
+• Gold ETF (GLD) data fetched via the yfinance Python package  
+These financial indicators help assess how traditional assets performed alongside cryptocurrencies during key economic periods (e.g. COVID recovery, inflation spikes, 2022 crypto winter).  
 
 💡 For an overview of *key cryptocurrency terms and concepts*, please refer to the [Intro to Cryptocurrencies](Intro%20to%20Cryptocurrencies%20README.md)   
 
