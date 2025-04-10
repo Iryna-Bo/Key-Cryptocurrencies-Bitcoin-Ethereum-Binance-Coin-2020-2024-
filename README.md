@@ -1,18 +1,25 @@
-# Key Cryptocurrencies: Bitcoin, Ethereum, Binance Coin (2020-2024)  
+> **📌 TL;DR (Summary)**  
+> • Analysis of Bitcoin, Ethereum, and Binance Coin from 2020–2024  
+> • Visualizations, forecasting, and global economic event impact  
+> • Includes comparisons to S&P 500 and Gold for portfolio diversification insights    
+
+---      
+
+# Key Cryptocurrencies: Bitcoin, Ethereum, Binance Coin (2020-2024)    
 
 __*Project Overview*__    
 
-This project analyzes the price trends, correlations, and patterns of three major cryptocurrencies—Bitcoin, Ethereum, and Binance Coin—from 2020 to 2024. Key aspects include examining price volatility, identifying trends, exploring seasonality and monthly patterns, and forecasting future prices. The study also investigates the interdependence of these cryptocurrencies and their stability during significant economic events. The insights provided aim to enhance understanding of the dynamics and relationships in the cryptocurrency market.  
-The survey data, sourced directly from the site https://binance.com      
-Binance is an online exchange where users can trade cryptocurrencies. It is the world's leading cryptocurrency exchange, catering to 235 million registered users in over 180 countries.   
+This project analyzes the price trends, correlations, and patterns of three major cryptocurrencies—Bitcoin, Ethereum, and Binance Coin—from 2020 to 2024. Key aspects include examining price volatility, identifying long-term trends, exploring seasonal and monthly patterns, and forecasting future prices. The study also investigates the interdependence of these cryptocurrencies and their stability during significant economic events. The insights provided aim to enhance understanding of the dynamics and relationships in the cryptocurrency market.  
+Historical price data was collected from Binance.com using their public datasets and tools (https://binance.com)        
+Binance, the world’s leading cryptocurrency exchange, serves over 235 million users across 180+ countries, offering a platform to trade a wide range of digital assets.     
 
 💡 For an overview of *key cryptocurrency terms and concepts*, please refer to the [Intro to Cryptocurrencies](Intro%20to%20Cryptocurrencies%20README.md)   
 
-### Goals    
+### 🧮 Goals    
 1.	*Analyze Price Volatility:*  Explore fluctuations in cryptocurrency prices to understand market dynamics.  
 2.	*Examine Correlations:*  Investigate Correlations between Bitcoin, Ethereum, and Binance Coin.    
 3.	*Identify Trends:*  Study historical data to uncover long-term growth, decline, and stability patterns.  
-4.	*Compare Average Prices:*  Evaluate and compare the mean values of the three cryptocurrencies.  
+4.	*Compare Average Prices:*  Assess and compare the mean and distribution of prices across the three cryptocurrencies.    
 5.	*Detect Seasonality and Forecast:*  Identify recurring patterns and predict future price trends.  
 6.	*Assess Cross-Impact:*  Analyze how the performance of one cryptocurrency affects others.  
 7.	*Study Economic Event Impact:*  Understand price stability during major global events.
@@ -21,32 +28,33 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 
 ### Tools Used   
 
-**Programming Language**:  
--Python.  
+**Programming Language**  
+• Python  
 
-**Python Libraries**:  
--requests  
--pandas, numpy  
--statsmodels (including scipy.stats)  
--seaborn, matplotlib  
--sklearn.linear_model  
--prophet  
+**Python Libraries**  
+• requests  
+• pandas, numpy  
+• statsmodels, scipy.stats  
+• seaborn, matplotlib  
+• sklearn.linear_model  
+• prophet  
 
- **Statistical Methods and Techniques**:  
--F-Test  
--Pearson Correlation Coefficient  
--Linear Regression  
--ANOVA  
--Facebook Prophet (Time Series Forecasting)  
--Granger Causality Analysis  
--T-Test.  
+**Statistical Methods and Techniques**  
+• F-Test  
+• Pearson Correlation Coefficient  
+• Linear Regression  
+• ANOVA  
+• Facebook Prophet (Time Series Forecasting)  
+• Granger Causality Analysis  
+• T-Test  
+ 
 
 💡 For detailed information on the *statistical methods and approach* used in this analysis, see [Statistical Methods and Analytical Approach](Statistical%20Methods%20and%20Analytical%20Approach.md)   
 
 ### Files and Folders      
 🐍 [Python Analysis](python/README.md): Statistical analysis and visualizations.   
 📈 [Excel Data](excel/README.md): Raw data, processed data.   
-🔍 [Images for visualisation](images/README.md)   
+🔍 [Images for visualization](images/README.md)   
 
 *Each folder contains a README file that provides a description of its contents.*  
 
@@ -86,7 +94,7 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 
 *🔍Below are the Boxplots - Comparison of the Distributions of Cryptocurrency Prices (created in Python)*    
 
-<img src="images/Currency%20Price%20Distribution.png" alt="Distributions of Cryptocurrency Prices" width="700"/>    
+<img src="images/Currency%20Price%20Distribution.png" alt="Boxplot comparing price distributions of Bitcoin, Ethereum, and Binance Coin" width="700"/>    
 
 💡 For more details:  
 🐍Python: *"Cryptocurrencies"*  
@@ -99,7 +107,7 @@ Binance is an online exchange where users can trade cryptocurrencies. It is the 
 • Bitcoin: $150,000–$160,000  
 • Ethereum: $5,000–$6,000  
 • Binance Coin: $1,200–$1,400  
--Forecasts indicate significant growth potential but remain subject to real-world market conditions.  
+-These forecasts suggest strong growth potential, but should be interpreted with caution due to the unpredictable nature of real-world market conditions.      
 
 *🔍Below is a 1-year Price forecast for Bitcoin, Ethereum, and Binance Coin (created in Python)*    
 
@@ -137,42 +145,47 @@ The upgrade positively impacted Ethereum’s long-term price trend by addressing
 -*China’s Cryptocurrency Crackdown:*  
 The market demonstrated strong adaptability. Despite an initial price drop, cryptocurrencies recovered as mining activity shifted to other regions. This event highlighted the increasing decentralization of the crypto ecosystem and its reduced reliance on any single country.  
 -*Crypto Winter 2022:*  
-During this period, Bitcoin’s volatility declined after the crash, while traditional assets like the S&P 500 and gold became more volatile. Interestingly, correlations between crypto and traditional assets strengthened, suggesting that increased correlation does not necessarily imply similar risk behavior. This provides valuable insight into portfolio diversification and risk management strategies.    
+During this period, Bitcoin’s volatility declined after the crash, while traditional assets like the S&P 500 and gold became more volatile. Interestingly, correlations between crypto and traditional assets increased—highlighting that stronger correlations do not necessarily imply similar risk profiles. This provides valuable insight into portfolio diversification and risk management strategies.    
 
 *🔍Below is a Line Plot (created in Python) for Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter*    
 
 <img src="images/Bitcoin%2CSP500%2CGold%20Daily%20Percentage%20Changes%20During%20Crypto%20Winter%20(2021-2022).png" alt="Line Plot showing Bitcoin, S&P 500, and Gold daily percentage changes during the Crypto Winter" width="600"/>    
 
 💡 For more details:  
-🐍Python: *"Price Stability During Economic Events"*
-
-**🧮 For the full report**, read the [Detailed Conclusions](Detaile%%Conclusions.md).   
+🐍Python: *"Price Stability During Economic Events"*     
 
 
 ### Broader Implications 🌍    
 
 *Investment Strategies:*  
-•	Bitcoin’s high volatility suits high-risk, high-reward investors, while Ethereum offers more stability and Binance Coin appeals to those prioritizing reduced risk.  
-•	Portfolios can balance speculative assets like Bitcoin with more stable options like Ethereum and Binance Coin to mitigate risk.  
+• Bitcoin’s high volatility suits high-risk, high-reward investors, while Ethereum offers more utility-driven stability, and Binance Coin appeals to those prioritizing ecosystem-based reduced-risk exposure.  
+• Portfolios can benefit from diversification—balancing speculative assets like Bitcoin with more stable or utility-oriented cryptocurrencies such as Ethereum and Binance Coin, alongside traditional assets like gold and the S&P 500, helps manage overall risk.    
 
 *Market Dynamics:*  
-•	The cryptocurrency market operates as a single ecosystem, with Bitcoin as the anchor driving the movements of Ethereum and Binance Coin.  
-•	Ethereum and Binance Coin show strong correlation, likely influenced by their shared roles in DeFi.  
+• The cryptocurrency market functions as a connected ecosystem, with Bitcoin acting as the anchor asset influencing the broader market direction.  
+• Ethereum and Binance Coin exhibit strong correlation, likely driven by their roles in decentralized finance (DeFi) and smart contract platforms.  
+• Traditional markets, represented by the S&P 500 and gold, provide contrasting stability dynamics: the S&P 500 reflects broader economic sentiment and risk-on behavior, while gold continues to serve as a safe-haven during market stress.    
 
 *Forecasting and Seasonal Insights:*  
-•	Long-term forecasts predict significant growth for Bitcoin, Ethereum, and Binance Coin by early 2026, with seasonal patterns highlighting opportunities for market timing.  
-•	Recurring dips and cycles indicate the influence of external events and market sentiment on cryptocurrency trends.  
+• Long-term models suggest upward trends for Bitcoin, Ethereum, and Binance Coin through early 2026, despite short-term volatility.  
+• Seasonal fluctuations and repeated market cycles reveal how investor psychology and macroeconomic shocks shape price behavior across both digital and traditional assets.  
 
 *Global Events Impact:*  
-•	Major events like the COVID-19 pandemic amplify cryptocurrency volatility, emphasizing their dual role as speculative assets and potential alternatives during market stress.  
-•	Price stability in the cryptocurrency market remains highly sensitive to global economic events. During turbulent periods, Bitcoin's volatility may decline, while traditional assets like the S&P 500 show increased fluctuations. Gold, by contrast, continues to serve as a relatively stable safe-haven. This evolving dynamic highlights how cryptocurrencies are becoming more interconnected with traditional markets, yet still retain unique behavioral patterns.
+• Major global disruptions — such as the COVID-19 pandemic and the 2022 “Crypto Winter” — have highlighted how both crypto and traditional assets react to uncertainty.    
+• After the May 2022 crash, Bitcoin’s volatility decreased, while the S&P 500 and gold experienced increased fluctuations—yet the correlation between them and Bitcoin became stronger, suggesting closer financial market integration.  
+• Gold continued to act as a reliable store of value during turbulent periods, while the S&P 500 mirrored broader economic sentiment and responded more strongly to fiscal and monetary policies.    
+• Events like the Bitcoin halving led to gradual price appreciation due to reduced supply, while Ethereum's London Upgrade increased investor confidence by addressing key transaction and supply issues.  
 
 *Key Takeaways:*  
-•	Bitcoin dominates as a speculative "store of value," Ethereum excels in utility-driven applications, and Binance Coin provides stability through its ecosystem.  
-•	Understanding these dynamics helps investors optimize portfolios and capitalize on the interconnected cryptocurrency market.  
+• Bitcoin dominates as a speculative “store of value,” Ethereum excels in smart contract utility, and Binance Coin offers ecosystem-based stability.  
+• The S&P 500 serves as a benchmark for risk assets in the traditional economy, while gold continues to offer consistent hedging benefits (i.e., helping protect investment portfolios against inflation, currency devaluation, or market crashes).    
+• Understanding the evolving interplay between cryptocurrencies and traditional assets is essential for building resilient, diversified investment strategies, especially during periods of economic turbulence.     
 
 ## How to Access  
 📂 [GitHub Repository](https://github.com/Iryna-Bo/Key-Cryptocurrencies-Bitcoin-Ethereum-Binance-Coin-2020-2024-)    
 
+📫 For questions or suggestions, feel free to reach out via GitHub or [LinkedIn](https://linkedin.com/in/iryna-boiko-683aa3306)  
+
 ### License   
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Iryna-Bo/Key-Cryptocurrencies-Bitcoin-Ethereum-Binance-Coin-2020-2024-/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Iryna-Bo/Key-Cryptocurrencies-Bitcoin-Ethereum-Binance-Coin-2020-2024-/blob/main/LICENSE) file for details.  
+Feel free to use, modify, and distribute this project with proper attribution.    
