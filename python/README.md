@@ -4,7 +4,7 @@ This section contains Jupyter Notebooks that provide detailed analysis and visua
 
 ## Files  
 
-- `Cryptocurrencies.ipynb`
+- `Cryptocurrency Analysis.ipynb`
     
   *CONTENT*:
 ### 1. Price Volatility Across Cryptocurrencies.  
@@ -29,7 +29,7 @@ This section contains Jupyter Notebooks that provide detailed analysis and visua
    6.A Use Granger causality to determine if currencies affect each other.  
    6.B Scatterplot.    
    
-- `Price Stability During Economic Events.ipynb`
+- `Price Stability_During Economic Events.ipynb`
 
   *CONTENT*:  
 ### 1. COVID-19:    
